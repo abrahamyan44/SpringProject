@@ -1,4 +1,4 @@
-package com.springProject.services;
+package com.springProject.services.GreetingApp;
 
 
 import org.springframework.web.bind.annotation.RequestMapping;

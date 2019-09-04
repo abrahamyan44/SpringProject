@@ -1,4 +1,4 @@
-package com.springProject.services;
+package com.springProject.services.GreetingApp;
 
 public class Greeting {
     private final long id;
